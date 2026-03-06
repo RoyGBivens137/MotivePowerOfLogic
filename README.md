@@ -34,7 +34,7 @@ profinite identification through refinement levels
 
 lattice exhaustions for constructing solutions
 
-Much of this work currently sits within C*-functional analysis, where I am exploring how these ideas interact with operator-theoretic structures.
+Much of this work currently sits within C*-functional analysis, where I am exploring how these ideas interact with operator-theoretic structures. My recent developments are an axiom free LEAN verification of Bochner's Theorem and the Argument Principle on U(1) and C* resepectively. (Please see the "Reusable" repository)
 
 # What Constitutes "Verification"
 
